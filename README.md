@@ -30,11 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
 ## 📫 Connect With Me
-- LinkedIn: (Add Link)
+- LinkedIn: https://www.linkedin.com/in/nihar-sawant-332760318/
 - Email: niharsawant@email.com
